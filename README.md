@@ -74,13 +74,7 @@ Special thanks to **Infosys Springboard** for guidance, support & industry expos
 
 ---
 
-## 👨‍💻 Author
 
-**Pranav Raskar**  
-📍 Data Analytics & BI Enthusiast  
-🔗 LinkedIn: https://www.linkedin.com/in/pranav-raskar
-
----
 
 
 
