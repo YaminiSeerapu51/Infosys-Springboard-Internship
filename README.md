@@ -62,11 +62,6 @@ Successfully completed as part of **Infosys Springboard Internship Program**
 📅 Duration: August 6, 2025 — October 10, 2025  
 🎯 Focus: Data Analytics, Visualization & Insight Storytelling
 
-🎓 Certificate:
-> <img width="1679" height="1190" alt="image" src="https://github.com/user-attachments/assets/a347b901-4bc3-4236-9c4d-3f0c3f4f7c2f" />
-
-
----
 
 ## 🤝 Acknowledgements
 
